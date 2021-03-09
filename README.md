@@ -8,3 +8,7 @@ https://www.wiley.com/en-us/Data+Analysis+Using+SQL+and+Excel%2C+2nd+Edition-p-9
 
 # Details
 Wanted to learn dash & further refine my SQL querying for Data Analysis, hence used this book to replicate all scenerios using SQL and used dash instead of excel for charting & plotting.
+
+# Links
+CH02
+https://notebooks.gesis.org/binder/jupyter/user/shraddha-kr-dat-ng-sql-and-dash-qpm5hckv/notebooks/CH02-Variations-on-ColumnChart.ipynb
