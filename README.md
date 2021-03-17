@@ -15,4 +15,4 @@ Wanted to learn dash & further refine my SQL querying for Data Analysis, hence u
 ![title](dashcharts_3.png)
 
 # NoteBook-Links
-https://mybinder.org/v2/gh/shraddha-kr/dataanalysis-using-sql-and-dash/699824e61b96bd4d695e36d8aa15bbadd7060fd9
+https://gesis.mybinder.org/binder/v2/gh/shraddha-kr/dataanalysis-using-sql-and-dash/68c533d481902a46e9a4f73e3b1ffc8ddd10dc3c
