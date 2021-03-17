@@ -7,7 +7,7 @@ Data analysis using SQL &amp; Dash
 https://www.wiley.com/en-us/Data+Analysis+Using+SQL+and+Excel%2C+2nd+Edition-p-9781119021438
 
 # Details
-Wanted to learn dash & further refine my SQL querying for Data Analysis, hence used this book to replicate all scenerios using SQL and used dash instead of excel for charting & plotting.
+Wanted to learn to use Plotly & dash while further refining my SQL querying for Data Analysis, hence used this book to replicate scenerios using SQL and used Plotly & Dash instead of excel for charting & plotting.
 
 # Plots & Charts Using Plotly/Dash
 ![title](dashcharts_1.png)
