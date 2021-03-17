@@ -15,4 +15,4 @@ Wanted to learn to use Plotly & dash while further refining my SQL querying for 
 ![title](dashcharts_3.png)
 
 # NoteBook-Links
-https://gesis.mybinder.org/binder/v2/gh/shraddha-kr/dataanalysis-using-sql-and-dash/68c533d481902a46e9a4f73e3b1ffc8ddd10dc3c
+https://mybinder.org/v2/gh/shraddha-kr/dataanalysis-using-sql-and-dash/141b067924eeeb4143089aeadb8be0d611a0913b
